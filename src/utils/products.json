@@ -1,0 +1,48 @@
+[ 
+    {
+    "id": "10",
+    "title": "Best Skin Care Products in India - NIVEA",
+    "image": "https://www.nivea.in/-/media/local/in/boday_page/3_banner_3080x806.png",
+    "price": "1,200",
+    "ratting":4
+},
+{
+    "id": "1",
+    "title": "Bosch 7 Kg Front Loading Fully Automatic Washing Machine, Serie 4 WAK2006WIN",
+    "image": "https://www.reliancedigital.in/medias/Bosch-WAK2006WIN-Washing-Machines-491604250-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTU5ODd8aW1hZ2UvanBlZ3xpbWFnZXMvaGMwL2g1Zi85MjIyODgzODM1OTM0LmpwZ3xjZjcyMThiNDczYTQzYWFmMTUwMzk4N2RiNzJkNWFlOTcxNTBmYjFlOTI2NDM5ZDQ4N2RhZjQ1MDllMzE3YThh",
+    "price": "35,000",
+    "ratting":5
+},
+{
+    "id": "10",
+    "title": "Scott International Unisex Reusable Face Mask",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61Nq11En1RL._UX522_.jpg",
+    "price": "200",
+    "ratting":4
+
+},
+{
+    "id": "10",
+    "title": "GIORDANO Cotton Anti Pollution 6 Layer Reusable Outdoor Face Mask (Black, Blue, Maroon and Grey) - Pack of 4",
+    "image": "https://m.media-amazon.com/images/I/81pRq5n891L._AC_UL320_.jpg",
+    "price": "1,200",
+    "ratting":2
+
+},
+{
+    "id": "10",
+    "title": "Cotson 5 Layers Antibacterial KN95 Safety Mask With Air Filter-(Pack of 3)",
+    "image": "https://m.media-amazon.com/images/I/81mrC1wCVyL._AC_UL320_.jpg",
+    "price": "1,200",
+    "ratting":5
+
+},
+{
+    "id": "10",
+    "title": "Wave Black Low back fixed chair with fixed arms",
+    "image": "https://wfh.transteel.com/wp-content/uploads/2020/08/2-1.jpg",
+    "price": "2,200",
+    "ratting":1
+
+}
+]
