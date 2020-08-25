@@ -1,3 +1,6 @@
+## This is Demo URL
+[click here](https://amazon-clone-in.herokuapp.com/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
