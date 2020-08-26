@@ -1,4 +1,4 @@
-## This is Demo URL
+## For Demo 
 [click here](https://amazon-clone-in.herokuapp.com/)
 
 
